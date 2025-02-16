@@ -24,7 +24,7 @@ Avito Shop — это веб-приложение, которое позволя
 
    ```bash
    git clone git@github.com:bemz2/avito.git
-   cd avito-shop
+   cd avito
    ```
 
 2. **Соберите и запустите контейнеры:**
