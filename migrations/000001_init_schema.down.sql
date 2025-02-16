@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS transactions;
+DROP TABLE IF EXISTS user_items;
+DROP TABLE IF EXISTS items;
+DROP TABLE IF EXISTS users; 
